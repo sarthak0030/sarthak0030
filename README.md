@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width=30 height=30>Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<sarthak0030>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<@sarthak0030>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 

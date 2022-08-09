@@ -1,4 +1,4 @@
-### Hi, I'm Sarthak 👋
+## Hi, I'm Sarthak 👋
 
 <!--
 **sarthak0030/sarthak0030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://www.github.com/sarthak0030/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-patil30)
+[![instagram](https://img.shields.io/badge/instagram-e6005c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/sarthak-patil30)
 
 I'am Sarthak Patil from India, currently Living in Nashik city. I'am a second year Undergraduate student pursuing bachelor's degree in Computer Application (BCA) at Ashoka College for Business and Computer Studies (ACBCS) affiliated to Pune University.
 
-⚡ Technologies
+### ⚡ Technologies

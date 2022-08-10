@@ -5,23 +5,24 @@
 
 [<div align="center"> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+welcome+to+my+Github+page;I+am+Sarthak+Patil;I+am+a+second+year+BCA+student) </div>](https://git.io/typing-svg)
 
-<div align="center">Web Developer | Ethical Hacker | Front End Developer | Game Developer | ui/ux Designer</div>
+<div align="center">Web Developer <a href="url"><img src="https://developertanjirul.com/wp-content/uploads/2022/08/intro-section.gif" height="40" width="40" ></a>  | Ethical Hacker<a href="url"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="30" width="35" ></a>  | Front End Developer <a href="url"><img src="https://indoanalytica.com/static/images/web-development-1.gif" height="40" width="40" ></a>  | Game Developer <a href="url"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" height="30" width="35" ></a>  | ui/ux Designer <a href="url"><img src="https://megatasktech.in/assets/img/aa.gif" height="40" width="40" ></a></div>
 
 <div align="center">
 
 ## 👀 About
 <br>
 </div>
- 
- <div align="center">
 
    * 🏫 I am a second year student at Ashoka Center for Business and Computer Studies
    * 👨‍💻 I'am currently working on my hacking skills
    * 👾 Outside the world of tech. I love pushing myself to develop new skills rainging from basketball, sketching all the way to learning new computer languages
-   * 🏀 I love playing baskeball as it improves my concentration power, increases my team work ability and helps me to tackle new problems https://www.fg-a.com/sports/bank-shot-2-points.gif
+   * 🏀 I love playing baskeball as it improves my concentration power, increases my team work ability and helps me to tackle new problems
    * 📫 How to reach me patilsarthak00030@gmail.com
    * 💬 Ask me about anything, I will be happy to help
    
+
+ 
+<div align="center">
 
 ## 🌐 Socials
 <br>

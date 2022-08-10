@@ -5,7 +5,7 @@
 
 [<div align="center"> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+welcome+to+my+Github+page;I+am+Sarthak+Patil;I+am+a+second+year+BCA+student) </div>](https://git.io/typing-svg)
 
-<div align="center">Front End Developer || Cybersecurity || Game Development || ui/ux Designer</div>
+<div align="center">Web Developer | Front End Developer | Ethical Hacker | Game Developer | ui/ux Designer</div>
 
 <div align="center">
 

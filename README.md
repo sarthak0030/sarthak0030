@@ -14,7 +14,7 @@
 </div>
 
    * 🏫 I am a second year student at Ashoka Center for Business and Computer Studies
-   * 👨‍💻 I'am currently working on my hacking skills
+   * 👨‍💻 I'm currently working on my hacking skills
    * 👾 Outside the world of tech. I love pushing myself to develop new skills rainging from basketball, sketching all the way to learning new computer languages
    * 🏀 I love playing baskeball as it improves my concentration power, increases my team work ability and helps me to tackle new problems
    * 📫 How to reach me patilsarthak00030@gmail.com

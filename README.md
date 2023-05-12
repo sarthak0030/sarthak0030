@@ -46,7 +46,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/oracle/oracle-original.svg" alt="oracle Logo" width="50" height="50"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/blender/blender-original.svg" alt="blender Logo" width="50" height="50"/>
    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="xd Logo" width="50" height="50"/>
-   <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma Logo" width="50" height="50"/>
+   <img src="https://github.com/sarthak0030/sarthak0030/assets/110853665/57473519-d140-4789-b9bd-fab589e0f4f5" width="50" height="50">
    <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="figma Logo" width="50" height="50"/>
 <br><br>
 

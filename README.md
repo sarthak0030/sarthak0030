@@ -66,11 +66,11 @@
 <br>
 <div align="center">
 
-   [![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthak0030&bg_color=62,00416a,e4e5e6&title_color=fff&text_color=fff)](https://github.com/sarthak0030/github-readme-stats)
+   [![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthak0030&theme=material-palenight&show_icons=true)](https://github.com/sarthak0030/github-readme-stats)
    
 <br>
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak0030)](https://github.com/sarthak0030/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak0030&layout=compact)](https://github.com/sarthak0030/github-readme-stats)
    
    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 

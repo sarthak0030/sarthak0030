@@ -3,7 +3,7 @@
 
 # <div align="center"><img src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966" width="30" style="max-width: 100%;"> Welcome to Sarthak Patil's profile! <img src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/waving.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width=35 height=35></div>
 
-[<div align="center"> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+welcome+to+my+Github+page;I+am+Sarthak+Patil;I+am+a+second+year+BCA+student) </div>](https://git.io/typing-svg)
+[<div align="center"> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+welcome+to+my+Github+page;I+am+Sarthak+Patil;I+am+a+third+year+BCA+student) </div>](https://git.io/typing-svg)
 
 <div align="center">Web Developer <a href="url"><img src="https://developertanjirul.com/wp-content/uploads/2022/08/intro-section.gif" height="40" width="40" ></a>  | Ethical Hacker<a href="url"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="30" width="35" ></a>  | Front End Developer <a href="url"><img src="https://indoanalytica.com/static/images/web-development-1.gif" height="40" width="40" ></a>  | Game Developer <a href="url"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" height="30" width="35" ></a>  | ui/ux Designer <a href="url"><img src="https://megatasktech.in/assets/img/aa.gif" height="40" width="40" ></a></div>
 
